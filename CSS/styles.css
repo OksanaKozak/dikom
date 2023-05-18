@@ -34,8 +34,11 @@ body {
   img {
     display: block;
   }
-  /* ========start============ */
 
+  /* ========start============ */
+  /* .logo {
+
+}
   .top {
     max-width: 1600px;
     text-align: center;
